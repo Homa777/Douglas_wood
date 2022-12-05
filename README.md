@@ -38,6 +38,8 @@ We added this interval to min number in loads and got the following numbers as b
 30638.33
 30884.55
 31130.77
+
+
 Question 2:
 Sulfur compounds cause “off odors” in wine, and winemakers want to know the odor threshold—the lowest concentration of a compound that the human nose can detect. The odor threshold for dimethyl sulfide (DMS) in trained wine tasters is about 24 micrograms per liter of wine. The untrained noses of consumers may be less sensitive.
 Constuct 95% bootstrap Confidence interval?
