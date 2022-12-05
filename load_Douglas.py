@@ -2,20 +2,10 @@
 """
 Created on Fri Nov 25 16:00:35 2022
 
-@author: Diana
+@author: Homa
 """
 
-## Question 2
-
-# from matplotlib_venn import venn3
-# from matplotlib import pyplot as plt
-
-
-# venn3(subsets=[0.38, 0.40,0.12,0.37,0.10,0.14,0.06],set_labels=['TikTok', 'Instagram', 'Other platforms'], set_colors=['red', 'blue', 'green'])
-# plt.show()
-
-
-## Question 4
+## Question 1
 # part a
 # importing module
 # from pandas import *
@@ -62,7 +52,7 @@ Created on Fri Nov 25 16:00:35 2022
 
 # print("99% confidence interval=",A)
 
-## Question 5
+## Question 2
 import numpy as np
 
 def bootstrap(data, n=1000, func=np.mean):
