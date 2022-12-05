@@ -1,9 +1,39 @@
 # Douglas_wood
 
-We wish to stratify Pharmacist based on their workplace characteristics and sample 10 pharmacist from each group. That means we will have five strata including Community pharmacy, Hospital or other health care facility, Academia or government, Industry, corporate Offices, professional practice or clinic, because we have five different places.
+How heavy a load (in pounds) is needed to pull apart pieces of Douglas fir 4 inches long and 1.5?
 
-2.	Decide on the sample size for each stratum
-Difference between Simple random sampling and stratified random sampling:
-Simple random sampling – sometimes known as random selection and stratified random sampling are both statistical measuring tools. Using random selection will minimize bias, as each member of the population is treated equally with an equal likelihood of being sampled. In contrast, stratified random sampling breaks the population into distinct subgroups called strata that have similar attributes.
-Disproportionate sampling where the sample size of each stratum is equal irrespective of the population size of the stratum 
-3.	Randomly sample from each stratum
+A histogram is one type of a graph and they are basically used to represent the data in the graph forms. It is actually one of the best methods to represent the numerical data distribution. In histogram, the x axis represents the bin ranges and the y axis represents the information about the frequency of the data. A histogram shows the number of observations between each interval.
+
+1 feet square =12*12*12 inch square
+Density of Douglas fir= 530 KG/m3
+Each meter equals to 3.2 feet
+Each kg equals to 2.2 pounds                                  Density of Douglas fir= 33.1 lb/ft3
+How heavy load needed to pull a part of Douglas fir wood?
+Volume of the wood in inches3= 1.5*4= 6 inch3
+Volume of the wood in ft3=6* 0.0005787=0.0034 ft3
+Mass= 0.0034*33.1= 0.112 pound
+F=Mg, that this force shows the needed loads 
+We approximately consider g equal to 10  
+F= 0.112 * 10= 1.12 
+a)	Histogram to show the distribution of 100 loads data
+
+To calculate the interval, we have: 
+Formula	Description
+n	Number of observations
+Number of intervals	Square Root of n
+Range	Maximum Value – Minimum Value in the dataset
+Intervals width	Range / Number of intervals. 
+
+n=100, Number of intervals=10, range=31130.77(max value) - 28668.58(min value) = 2462.19
+Interval width=2462.19/10=246.219
+We added this interval to min number in loads and got the following numbers as bins
+28914.8
+29161.02
+29407.24
+29653.46
+29899.68
+30145.89
+30392.11
+30638.33
+30884.55
+31130.77
