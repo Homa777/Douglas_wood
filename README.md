@@ -1,5 +1,6 @@
 # Douglas_wood
 
+Question 1
 How heavy a load (in pounds) is needed to pull apart pieces of Douglas fir 4 inches long and 1.5?
 
 A histogram is one type of a graph and they are basically used to represent the data in the graph forms. It is actually one of the best methods to represent the numerical data distribution. In histogram, the x axis represents the bin ranges and the y axis represents the information about the frequency of the data. A histogram shows the number of observations between each interval.
@@ -37,3 +38,6 @@ We added this interval to min number in loads and got the following numbers as b
 30638.33
 30884.55
 31130.77
+Question 2:
+Sulfur compounds cause “off odors” in wine, and winemakers want to know the odor threshold—the lowest concentration of a compound that the human nose can detect. The odor threshold for dimethyl sulfide (DMS) in trained wine tasters is about 24 micrograms per liter of wine. The untrained noses of consumers may be less sensitive.
+Constuct 95% bootstrap Confidence interval?
